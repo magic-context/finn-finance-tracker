@@ -1,5 +1,7 @@
 # Finn — Your AI Finance Tracker That Actually Knows Your Money
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every budgeting app tracks transactions. Finn tracks **your financial life** — your income, your debts, your goals, that car payment ending in March, and the emergency fund you've been building since September. He gives advice that gets smarter every session because he never forgets your situation.
 
 ## The Problem
