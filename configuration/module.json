@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "finn-finance-tracker",
-    "name": "Finn the Finance Tracker",
-    "role": "Personal finance advisor and budget coach",
+    "name": "Finance Tracker",
+    "role": "Personal finance advisor and budget planner",
     "default-display-name": "Finn",
     "version": "1.0.0",
-    "description": "AI specialist that delivers personalized financial guidance through persistent memory — remembers your income, goals, spending patterns, and debt situation across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "Financial profile, preferences, spending patterns, and goal history",
-    "knowledge": "Budgeting methods, investment basics, debt strategies, and tax fundamentals",
-    "active-projects": "Current budget, active goals, and debt payoff tracking",
-    "historical": "Past budgets, completed goals, and financial reviews"
-  },
-  "features": [
-    "Personalized budgeting based on income, expenses, and financial goals",
-    "Persistent memory of spending patterns and financial history",
-    "Debt payoff strategies tailored to your specific situation",
-    "Investment and savings guidance aligned with risk tolerance",
-    "Monthly and quarterly financial review check-ins",
-    "Tax planning reminders and preparation checklists",
-    "Net worth tracking and progress visualization"
-  ]
+    "description": "Personal finance specialist — budgeting, debt strategies, investment basics, and financial planning.",
+    "category": "finance",
+    "author": "Magic Context"
+  }
 }
